@@ -1,6 +1,10 @@
 C:\Users\user\.ssh\id_rsa.pub
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC2v/akwYPHKv1gL1xS+fDbrQi04WbjZXDgAbIQs9lDGJ2WMC6bTZYefUkSG8b+z0yeUCWUish2FzGWURvEPSZ05WfSIu721AX559yTgB4c8qeUYvWws9Ni6V7II6YBrZI9g3+IcoPG9TAXQv+mNA/fnRHmvYJ2hVvhH7twXfCS74SGLgGDZ6y7HHtNuQxgPr8xT8oHoWJAgq5Ki98AlAkSq1A8RkR1yHmsGhc0p2nQRVqoTrhXS6QZqgzGaRXyydFEk1ivi3KtClMMx13KA0upr8IXSSjaRhLqcMcMjoW5R/NcFnTzLt/+IUlPpixBzV7qd6ZoiRkv87oe2Ew/xdlNSMA3/JAaV+nwJiqsGTEnocj9j9s06aY8FunBXC8zuaSR/A+tbqNuR4QC8gKCwaETGFZHvdOu2yObN7HRyNJ50nYGLdMqVsmiRoS2CdkfaMsgItjJ8SP2IyaVNCtKSnno9xFjRwSPzXNAsUaO97c+24axUZ5FrlQXFS/9iLZQW5c= “eddie.huang@sfnt.com.tw
 
+
+
+
+
 #先拉在推
 git clone <repository url>
 git remote rm origin 
@@ -8,6 +12,14 @@ git remote add origin <repository url>
 git add File
 git commit -m "comment"
 git push origin master
+
+
+
+
+
+
+
+
 
 
 …or create a new repository on the command line
